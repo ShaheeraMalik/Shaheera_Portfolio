@@ -15,6 +15,7 @@
     "vue-router": "^4.4.5"
   },
   "dependencies": {
+    "docker": "^1.0.0",
     "resend": "^6.12.2"
   }
 }
